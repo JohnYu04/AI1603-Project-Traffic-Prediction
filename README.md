@@ -1,4 +1,3 @@
-# AI1603-Project-Traffic-Prediction-via-GAT-and-Transformer-
 # GAT+Transformer Traffic Prediction Model
 
 This repository contains the implementation of the GAT+Transformer model designed for traffic prediction using the Paris traffic probe dataset. The model integrates Graph Attention Networks (GAT) with the Transformer architecture to effectively leverage spatial and temporal data for enhanced traffic forecasting accuracy.
